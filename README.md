@@ -7,4 +7,10 @@
 ---
 
 ### Updates:
-- Report is added. Code will be added soon!
+- Reports are added. Code will be added soon!
+
+---
+
+### Reports
+ - [antiviral-admet-2025](https://github.com/azminewasi/polaris-antiviral-competition/blob/main/antiviral-admet-2025/report/report.pdf)
+ - [antiviral-potency-2025](https://github.com/azminewasi/polaris-antiviral-competition/blob/main/antiviral-potency-2025/report/report.pdf)

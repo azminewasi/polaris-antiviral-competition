@@ -1,6 +1,9 @@
-# ASAP Discovery x OpenADMET Competition
+# ASAP Discovery x OpenADMET Competition | **Predicting Antiviral Potenty and ADMET Using Ensemble Approach of Chemical Language Model and Fingerprint Features**
+
+by **Azmine Toushik Wasi**, *Shahjalal University of Science and Technology, Sylhet, Bangladesh*
+
 
 ---
 
-Details will be updated within the submission deadline.
- 
+### Updates:
+- Report is added. Code will be added soon!
